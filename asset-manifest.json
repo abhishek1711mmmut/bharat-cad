@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bharat-cad/static/css/main.232d6ccc.css",
+    "main.js": "/bharat-cad/static/js/main.3161b273.js",
+    "static/media/image2.png": "/bharat-cad/static/media/image2.890ce4893e3a208d4396.png",
+    "static/media/image3.jpg": "/bharat-cad/static/media/image3.e44f2bd632b7fba0f1c6.jpg",
+    "static/media/photo-1600869009498-8d429f88d4f5.avif": "/bharat-cad/static/media/photo-1600869009498-8d429f88d4f5.760b54956ac42edf4b5f.avif",
+    "static/media/logo.png": "/bharat-cad/static/media/logo.541b7d7edf55c6ee6e14.png",
+    "static/media/image1.avif": "/bharat-cad/static/media/image1.056bcae723a828e1becd.avif",
+    "static/media/image1.webp": "/bharat-cad/static/media/image1.604fa08d7b9266d486d6.webp",
+    "static/media/image2.webp": "/bharat-cad/static/media/image2.9acbe3e93d6927a7c418.webp",
+    "static/media/image4.webp": "/bharat-cad/static/media/image4.fb72043f0c687f10915d.webp",
+    "static/media/image3.webp": "/bharat-cad/static/media/image3.42089ac089a5f1a90332.webp",
+    "static/media/image5.webp": "/bharat-cad/static/media/image5.6d8fd6897c51acf2e73b.webp",
+    "static/media/image6.webp": "/bharat-cad/static/media/image6.25c710c125221f2f83b7.webp",
+    "index.html": "/bharat-cad/index.html",
+    "main.232d6ccc.css.map": "/bharat-cad/static/css/main.232d6ccc.css.map",
+    "main.3161b273.js.map": "/bharat-cad/static/js/main.3161b273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232d6ccc.css",
+    "static/js/main.3161b273.js"
+  ]
+}

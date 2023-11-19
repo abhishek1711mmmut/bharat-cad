@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bharat-cad/static/css/main.232d6ccc.css",
-    "main.js": "/bharat-cad/static/js/main.3161b273.js",
+    "main.js": "/bharat-cad/static/js/main.231dc761.js",
     "static/media/image2.png": "/bharat-cad/static/media/image2.890ce4893e3a208d4396.png",
     "static/media/image3.jpg": "/bharat-cad/static/media/image3.e44f2bd632b7fba0f1c6.jpg",
     "static/media/photo-1600869009498-8d429f88d4f5.avif": "/bharat-cad/static/media/photo-1600869009498-8d429f88d4f5.760b54956ac42edf4b5f.avif",
@@ -15,10 +15,10 @@
     "static/media/image6.webp": "/bharat-cad/static/media/image6.25c710c125221f2f83b7.webp",
     "index.html": "/bharat-cad/index.html",
     "main.232d6ccc.css.map": "/bharat-cad/static/css/main.232d6ccc.css.map",
-    "main.3161b273.js.map": "/bharat-cad/static/js/main.3161b273.js.map"
+    "main.231dc761.js.map": "/bharat-cad/static/js/main.231dc761.js.map"
   },
   "entrypoints": [
     "static/css/main.232d6ccc.css",
-    "static/js/main.3161b273.js"
+    "static/js/main.231dc761.js"
   ]
 }

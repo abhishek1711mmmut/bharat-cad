@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="">
       <Routes>
-        <Route path='/' element={<Home />}/>
+        <Route path='/bharat-cad' element={<Home />}/>
       </Routes>
       <WhatsappContact />
     </div>
